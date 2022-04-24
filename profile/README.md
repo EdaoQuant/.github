@@ -29,5 +29,5 @@ We offer a competitive remuneration for interns, with the chance to engage in a 
 
 Join us if you are motivated and interested in my team. My email is zl31wang@gmail.com
 
-<div align=center><img src="https://user-images.githubusercontent.com/46620760/162664743-cb2963cc-9761-4975-97ee-2736b39b6f9d.png"/></div>
+<div align=center><img width=200 height=200 src="https://user-images.githubusercontent.com/46620760/162664743-cb2963cc-9761-4975-97ee-2736b39b6f9d.png"/></div>
 
